@@ -2,7 +2,7 @@
 const messages = [
   ['Whoops.', 'Oops.', 'Excuse me.', 'Oh Dear.'],
   ['It appears', 'Looks like', 'Unfortunately,', 'Sadly,'],
-  ['Our Website is Underconstraction', 'The Website is Still Building.'],
+  ['Our Website is Underconstruction.', 'The Website is Still Building.'],
   ['Sorry.', 'Apologies.', 'Our bad.', 'Sad day.', 'We are quite contrite.', 'Beg pardon.']
 ];
 
